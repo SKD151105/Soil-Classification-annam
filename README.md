@@ -57,7 +57,12 @@ Also identifies the **worst-performing class** based on F1-score.
 
 ## 🖼️ Sample Output
 
-Class-wise F1-scores and overall validation accuracy reported at the end of training.
+Class-wise F1-scores:
+
+Alluvial soil    0.990476
+Black Soil       0.978723
+Clay soil        1.000000
+Red soil         1.000000
 
 ---
 
