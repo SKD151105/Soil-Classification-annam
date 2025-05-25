@@ -1,0 +1,12 @@
+tensorflow>=2.12.0
+tensorflow-hub
+tensorflow-addons
+efficientnet
+numpy
+pandas
+matplotlib
+scikit-learn
+opencv-python
+Pillow
+tqdm
+seaborn
