@@ -59,10 +59,10 @@ Also identifies the **worst-performing class** based on F1-score.
 
 Class-wise F1-scores:
 
-Alluvial soil    0.990476
-Black Soil       0.978723
-Clay soil        1.000000
-Red soil         1.000000
+Alluvial soil &nbsp;:   0.990476 <br>
+Black Soil  &nbsp;&nbsp;&nbsp; :   0.978723 <br>
+Clay soil  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;   :   1.000000 <br>
+Red soil    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :   1.000000 <br>
 
 ---
 
