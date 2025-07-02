@@ -68,8 +68,8 @@ Red soil    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  :   1.000000 <br>
 
 ## 👥 Contributors
 
-- **Shubham Kumar Das** (Model Optimization)
-- **Chataniya Dhanai** (Primary Developer)
+- **Shubham Kumar Das** (Model Training & Optimization)
+- **Chataniya Dhanai** (Primary Developer) (https://github.com/Deoxysis)
 
 ---
 
