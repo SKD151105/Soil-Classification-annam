@@ -66,6 +66,13 @@ Red soil         1.000000
 
 ---
 
+## 👥 Contributors
+
+- **Shubham Kumar Das** (Model Optimization)
+- **Chataniya Dhanai** (Primary Developer)
+
+---
+
 ## 📦 Dependencies
 
 - TensorFlow ≥ 2.8
